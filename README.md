@@ -7,7 +7,7 @@
 
 **iOS Based app with features such as Todo List, Weather Updates, Health Manager.**
 
-This app was developed for the purpose of Mobile Computing Lab project. Images used in this project is uploaded into "icons" folder. The screenshots of the View Controller storyboards are also attached.
+This app was developed for the purpose of Mobile Computing Lab project. Images used in this project were uploaded into "icons" folder. The screenshots of the View Controller storyboards are also attached.
 
 **Main Storyboard**
 
